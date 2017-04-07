@@ -7,10 +7,6 @@
 - 1 x 1k ohm resistor
 
 
-
-## Wiring
-![alt text](images/wiring.png "Description goes here")
-
 ###### LCD pins / Arduino pins
 - DB4 / pin4
 - DB5 / pin5
