@@ -3,11 +3,10 @@
 - 1 x Arduino Mega2560
 - 1 x LCD
 - 1 x 5 kohm potentiometer
-- 1 x breadboard
 - 1 x LM35 temperature sensor
 - 1 x 1k ohm resistor
-- Female connectors
-- jumper wires
+
+
 
 ## Wiring
 ![alt text](images/wiring.png "Description goes here")
